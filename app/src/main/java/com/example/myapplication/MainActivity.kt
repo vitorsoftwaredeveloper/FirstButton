@@ -80,11 +80,3 @@ fun DiceWithButtonAndImage(modifier: Modifier = Modifier) {
         }
     }
 }
-
-//@Preview(showBackground = true)
-//@Composable
-//fun GreetingPreview() {
-//    MyApplicationTheme {
-//        DiceRollerApp()
-//    }
-//}
